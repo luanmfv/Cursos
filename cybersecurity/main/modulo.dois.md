@@ -23,9 +23,17 @@ Uma grande janela de negócio a internet.
 
 Hackear instagram ou alguma rede é muito difícil diretamente, geralmente usam algum site falso, ou algum programa pirata que você baixou para coletar os dados.
 
-* Cuidados a serem tomados
+Verificar o registro de atividades, é possível bloquear por ip caso haja alguma invasão
 
-- 
+Em alguns casos, possível que a justiça consiga os dados da pessoa que causou algum problema a você, de invasão, perfil fake ou algo relacionado.
+
+Verificar o certificado de segurança do navegador - ![alt text](image.png)
+
+Não confiar em anonimato oferecido por apps e sites
+
+Sua senha pode vazar quando:
+- Seu computador possuí vírus, ou com sites falsos(phishing)
+
 
 
 
