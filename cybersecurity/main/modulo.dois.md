@@ -34,6 +34,17 @@ Não confiar em anonimato oferecido por apps e sites
 Sua senha pode vazar quando:
 - Seu computador possuí vírus, ou com sites falsos(phishing)
 
+Ferramenta ótima e gratuita para gestor de senhas - Bitwarden (Safe, open source)
+
+Usar senhas diferentes e geradas pelo bitwarden, armazenar nele e deixar instalado no desktop e mobile.
+Verifica quando está criando uma conta e oferece uma senha forte, que é possível configurar como você a prefere.
+
+Recomendado chave pix aleatória
+
+
+
+
+
 
 
 
