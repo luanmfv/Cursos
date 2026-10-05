@@ -41,7 +41,11 @@ Verifica quando está criando uma conta e oferece uma senha forte, que é possí
 
 Recomendado chave pix aleatória
 
+-----------------------------------------------------------------------------------------------------------------------
 
+Um método de phishing:
+
+Criar um site falso, do instagram por exemplo, coloco os dados para logar, após isso é direcionado para a mesma página porém oficial do instagram após a coleta dos dados, mascarando bem.
 
 
 
