@@ -47,6 +47,8 @@ Um método de phishing:
 
 Criar um site falso, do instagram por exemplo, coloco os dados para logar, após isso é direcionado para a mesma página porém oficial do instagram após a coleta dos dados, mascarando bem.
 
+QR Code Monkey site que cria QR code com qualquer link e consegue adicionar ícones de redes sociais.
+
 
 
 
