@@ -49,6 +49,10 @@ Criar um site falso, do instagram por exemplo, coloco os dados para logar, após
 
 QR Code Monkey site que cria QR code com qualquer link e consegue adicionar ícones de redes sociais.
 
+Evitar receber códigos por sms e chamada de voz, pois é possível clonar número, por voip, preferir e-mail, dar prioridade para autenticador.
+
+
+
 
 
 
