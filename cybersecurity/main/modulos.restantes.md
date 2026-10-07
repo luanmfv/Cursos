@@ -51,6 +51,13 @@ QR Code Monkey site que cria QR code com qualquer link e consegue adicionar íco
 
 Evitar receber códigos por sms e chamada de voz, pois é possível clonar número, por voip, preferir e-mail, dar prioridade para autenticador.
 
+----------------------------------------------------------------------------------------------------------
+Módulo - 2
+
+Consigo criar um voip e vincular a qualquer número, algumas operadoras mudaram e outras não
+
+
+
 
 
 
